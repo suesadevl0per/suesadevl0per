@@ -4,7 +4,7 @@
 
 ### Software Developer · Backend · Web · APIs
 
-Desenvolvedor focado em construir aplicações, serviços e sistemas que transformam ideias em produtos funcionais.
+Developer focused on building applications, services, and systems.
 
 <br>
 
@@ -14,28 +14,28 @@ Desenvolvedor focado em construir aplicações, serviços e sistemas que transfo
 
 ---
 
-## Perfil
+## Profile
 
-Sou **Suesa**, desenvolvedor com foco em **JavaScript, TypeScript e Node.js**.
+I am **Suesa**, a developer focused on **JavaScript, TypeScript, and Node.js**.
 
-Minha atuação envolve principalmente **backend, desenvolvimento web, APIs, automação e integrações entre serviços**. Também trabalho com aplicações que envolvem banco de dados, autenticação e diferentes componentes de uma infraestrutura de software.
+My work mainly involves **backend, web development, APIs, automation, and service integrations**. I also work with applications involving databases, authentication, and different components of software infrastructure.
 
-Gosto de participar de todo o ciclo de desenvolvimento: desde a definição da ideia e estrutura do projeto até implementação, testes, correções e evolução.
+I enjoy being involved throughout the entire development cycle: from defining the idea and project structure to implementation, testing, fixes, and continuous improvement.
 
-Meu objetivo profissional é continuar aprofundando fundamentos de engenharia de software e transformar projetos pessoais em experiências práticas de desenvolvimento.
+My professional goal is to continue deepening my software engineering fundamentals and turning personal projects into practical development experience.
 
 ---
 
-## Especialidades
+## Specialties
 
-| Área                    | Atuação                                             |
-| ----------------------- | --------------------------------------------------- |
-| **Backend**             | APIs, serviços, autenticação e lógica de aplicações |
-| **Web Development**     | Aplicações web e interfaces modernas                |
-| **APIs & Integrations** | Integração entre aplicações e serviços externos     |
-| **Automation**          | Bots, scripts e processos automatizados             |
-| **Database**            | Modelagem e integração com bancos de dados          |
-| **Projects**            | Desenvolvimento e manutenção de projetos próprios   |
+| Area                    | Focus                                                  |
+| ----------------------- | ------------------------------------------------------ |
+| **Backend**             | APIs, services, authentication, and application logic  |
+| **Web Development**     | Web applications and modern interfaces                 |
+| **APIs & Integrations** | Integration between applications and external services |
+| **Automation**          | Bots, scripts, and automated processes                 |
+| **Database**            | Database modeling and integration                      |
+| **Projects**            | Development and maintenance of personal projects       |
 
 ---
 
@@ -47,7 +47,7 @@ Meu objetivo profissional é continuar aprofundando fundamentos de engenharia de
 
 </div>
 
-### Principais tecnologias
+### Main Technologies
 
 **Languages**
 JavaScript · TypeScript · Python
@@ -66,11 +66,9 @@ Git · GitHub · VS Code
 
 ---
 
-
-Priorizo código organizado, soluções que possam evoluir com o projeto e aprendizado prático durante o desenvolvimento.
+I prioritize clean code, solutions that can evolve with the project, and practical learning throughout development.
 
 ---
-
 
 <div align="center">
 
